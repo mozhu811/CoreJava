@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CoreJava.iml" filepath="$PROJECT_DIR$/CoreJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/v1ch02/v1ch02.iml" filepath="$PROJECT_DIR$/v1ch02/v1ch02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/v1ch03/v1ch03.iml" filepath="$PROJECT_DIR$/v1ch03/v1ch03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/v1ch04/v1ch04.iml" filepath="$PROJECT_DIR$/v1ch04/v1ch04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/v1ch05/v1ch05.iml" filepath="$PROJECT_DIR$/v1ch05/v1ch05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/v1ch06/v1ch06.iml" filepath="$PROJECT_DIR$/v1ch06/v1ch06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/v1ch07/v1ch07.iml" filepath="$PROJECT_DIR$/v1ch07/v1ch07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/v1ch08/v1ch08.iml" filepath="$PROJECT_DIR$/v1ch08/v1ch08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/v1ch09/v1ch09.iml" filepath="$PROJECT_DIR$/v1ch09/v1ch09.iml" />
+      <module fileurl="file://$PROJECT_DIR$/v1ch10/v1ch10.iml" filepath="$PROJECT_DIR$/v1ch10/v1ch10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/v1ch11/v1ch11.iml" filepath="$PROJECT_DIR$/v1ch11/v1ch11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/v1ch12/v1ch12.iml" filepath="$PROJECT_DIR$/v1ch12/v1ch12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/v1ch13/v1ch13.iml" filepath="$PROJECT_DIR$/v1ch13/v1ch13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/v1ch14/v1ch14.iml" filepath="$PROJECT_DIR$/v1ch14/v1ch14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/v2ch01/v2ch01.iml" filepath="$PROJECT_DIR$/v2ch01/v2ch01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/v2ch02/v2ch02.iml" filepath="$PROJECT_DIR$/v2ch02/v2ch02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/v2ch03/v2ch03.iml" filepath="$PROJECT_DIR$/v2ch03/v2ch03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/v2ch04/v2ch04.iml" filepath="$PROJECT_DIR$/v2ch04/v2ch04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/v2ch05/v2ch05.iml" filepath="$PROJECT_DIR$/v2ch05/v2ch05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/v2ch06/v2ch06.iml" filepath="$PROJECT_DIR$/v2ch06/v2ch06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/v2ch07/v2ch07.iml" filepath="$PROJECT_DIR$/v2ch07/v2ch07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/v2ch08/v2ch08.iml" filepath="$PROJECT_DIR$/v2ch08/v2ch08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/v2ch09/v2ch09.iml" filepath="$PROJECT_DIR$/v2ch09/v2ch09.iml" />
+      <module fileurl="file://$PROJECT_DIR$/v2ch10/v2ch10.iml" filepath="$PROJECT_DIR$/v2ch10/v2ch10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/v2ch11/v2ch11.iml" filepath="$PROJECT_DIR$/v2ch11/v2ch11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/v2ch12/v2ch12.iml" filepath="$PROJECT_DIR$/v2ch12/v2ch12.iml" />
+    </modules>
+  </component>
+</project>
